@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@autoshark-finance/sdk",
   "license": "MIT",
   "version": "2.4.0",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of AutoShark.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "https://github.com/autoshark-finance/sdk.git",
   "keywords": [
-    "pancakeswap",
+    "autoshark-finance",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
